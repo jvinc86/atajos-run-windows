@@ -57,3 +57,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tms.exe]
 @="C:\\ProgramData\\jvinc\\Microsoft\\Teams\\current\\Teams.exe"
 "Path"="C:\\ProgramData\\jvinc\\Microsoft\\Teams\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tmv.exe]
+@="C:\\Program Files\\TeamViewer\\TeamViewer.exe"
+"Path"="C:\\Program Files\\TeamViewer\\"
