@@ -61,3 +61,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tmv.exe]
 @="C:\\Program Files\\TeamViewer\\TeamViewer.exe"
 "Path"="C:\\Program Files\\TeamViewer\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\skp.exe]
+@="C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_15.80.194.0_x86__kzf8qxf38zg5c\\Skype\\Skype.exe"
+"Path"="C:\\Program Files\\WindowsApps\\Microsoft.SkypeApp_15.80.194.0_x86__kzf8qxf38zg5c\\Skype\\"
