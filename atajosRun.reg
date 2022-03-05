@@ -1,0 +1,63 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ntn.exe]
+@="C:\\Users\\jvinc\\AppData\\Local\\Programs\\Notion\\Notion.exe"
+"Path"="C:\\Users\\jvinc\\AppData\\Local\\Programs\\Notion\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\snge.exe]
+@="C:\\Program Files\\TechSmith\\Snagit 2020\\SnagitEditor.exe"
+"Path"="C:\\Program Files\\TechSmith\\Snagit 2020\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\sng.exe]
+@="C:\\Program Files\\TechSmith\\Snagit 2020\\Snagit32.exe"
+"Path"="C:\\Program Files\\TechSmith\\Snagit 2020\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\4k.exe]
+@="C:\\Program Files\\4KDownload\\4kvideodownloader\\4kvideodownloader.exe"
+"Path"="C:\\Program Files\\4KDownload\\4kvideodownloader\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vsc.exe]
+@="C:\\Users\\jvinc\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+"Path"="C:\\Users\\jvinc\\AppData\\Local\\Programs\\Microsoft VS Code\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tlg.exe]
+@="C:\\Program Files\\WindowsApps\\TelegramMessengerLLP.TelegramDesktop_3.5.1.0_x64__t4vj0pshhgkwm\\Telegram.exe"
+"Path"="C:\\Program Files\\WindowsApps\\TelegramMessengerLLP.TelegramDesktop_3.5.1.0_x64__t4vj0pshhgkwm\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\vpn.exe]
+@="C:\\Program Files (x86)\\Proton Technologies\\ProtonVPN\\ProtonVPN.exe"
+"Path"="C:\\Program Files (x86)\\Proton Technologies\\ProtonVPN\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\mxt.exe]
+@="C:\\Program Files (x86)\\Mobatek\\MobaXterm\\MobaXterm.exe"
+"Path"="C:\\Program Files (x86)\\Mobatek\\MobaXterm\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wss.exe]
+@="C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2206.9.0_x64__cv1g1gvanyjgm\\app\\WhatsApp.exe"
+"Path"="C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2206.9.0_x64__cv1g1gvanyjgm\\app\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\psh.exe]
+@="C:\\Program Files\\Adobe\\Adobe Photoshop 2020\\Photoshop.exe"
+"Path"="C:\\Program Files\\Adobe\\Adobe Photoshop 2020\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\chr.exe]
+@="C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+"Path"="C:\\Program Files\\Google\\Chrome\\Application\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ntpd.exe]
+@="C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+"Path"="C:\\Program Files (x86)\\Notepad++\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\ffx.exe]
+@="C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"
+"Path"="C:\\Program Files (x86)\\Mozilla Firefox\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tms.exe]
+@="C:\\ProgramData\\jvinc\\Microsoft\\Teams\\current\\Teams.exe"
+"Path"="C:\\ProgramData\\jvinc\\Microsoft\\Teams\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\tmv.exe]
+@="C:\\Program Files\\TeamViewer\\TeamViewer.exe"
+"Path"="C:\\Program Files\\TeamViewer\\"
